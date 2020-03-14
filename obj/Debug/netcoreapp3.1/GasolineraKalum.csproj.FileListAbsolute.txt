@@ -1,0 +1,22 @@
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.exe
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.deps.json
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.runtimeconfig.json
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.runtimeconfig.dev.json
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.dll
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\bin\Debug\netcoreapp3.1\GasolineraKalum.pdb
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\obj\Debug\netcoreapp3.1\GasolineraKalum.csprojAssemblyReference.cache
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\obj\Debug\netcoreapp3.1\GasolineraKalum.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\obj\Debug\netcoreapp3.1\GasolineraKalum.AssemblyInfo.cs
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\obj\Debug\netcoreapp3.1\GasolineraKalum.dll
+C:\Users\Informatica\Documents\Sabado GH\AcademiaKinal\GasolineraKalum\obj\Debug\netcoreapp3.1\GasolineraKalum.pdb
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.exe
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.deps.json
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.runtimeconfig.json
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.runtimeconfig.dev.json
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.dll
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\bin\Debug\netcoreapp3.1\GasolineraKalum.pdb
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\obj\Debug\netcoreapp3.1\GasolineraKalum.csprojAssemblyReference.cache
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\obj\Debug\netcoreapp3.1\GasolineraKalum.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\obj\Debug\netcoreapp3.1\GasolineraKalum.AssemblyInfo.cs
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\obj\Debug\netcoreapp3.1\GasolineraKalum.dll
+C:\Users\Informatica\Documents\Sabado\GASOLINERAKALUM\obj\Debug\netcoreapp3.1\GasolineraKalum.pdb
